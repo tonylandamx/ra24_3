@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "http-server.test.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\"",
+    "test": "jest",
     "start": "node http-server.js"
   },
   "keywords": [],
